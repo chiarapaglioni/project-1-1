@@ -2,7 +2,7 @@ public class Backtracking {
 
 public static void main (String[] args) {
 
-	//This is the variable of the vertex
+//This is the variable of the vertex
     int v = 1; 
 
     //Here I gave random values to the graph 
